@@ -141,6 +141,8 @@ const WorkingNumbers = () => {
         </div>
       ))}
 
+     {/* Добавить редюсер */}
+
       {/* <Row>
         <Col>
           <Card>
