@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Numerology-working-numbers/static/css/main.b7cca806.css",
+    "main.js": "/Numerology-working-numbers/static/js/main.315cfaef.js",
+    "static/js/184.c83a4ca5.chunk.js": "/Numerology-working-numbers/static/js/184.c83a4ca5.chunk.js",
+    "static/media/astrology.jpg": "/Numerology-working-numbers/static/media/astrology.42c7213c5980356ecb03.jpg",
+    "index.html": "/Numerology-working-numbers/index.html",
+    "main.b7cca806.css.map": "/Numerology-working-numbers/static/css/main.b7cca806.css.map",
+    "main.315cfaef.js.map": "/Numerology-working-numbers/static/js/main.315cfaef.js.map",
+    "184.c83a4ca5.chunk.js.map": "/Numerology-working-numbers/static/js/184.c83a4ca5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7cca806.css",
+    "static/js/main.315cfaef.js"
+  ]
+}
